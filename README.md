@@ -49,10 +49,10 @@ I am incredibly grateful to Professor Takuya Hashimoto, who trusted me and welco
 
 <div align="center">
   <a href="https://www.ensta-bretagne.fr" style="margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/fr/1/17/Logo_ENSTA-2025.svg" alt="Logo ENSTA" width="300">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/1/17/Logo_ENSTA-2025.svg" alt="Logo ENSTA" width="150">
   </a>
   <a href="https://www.tus.ac.jp/en/" style="margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/Tokyo_University_of_Science.svg" alt="Logo Tokyo University of Science" width="100">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/Tokyo_University_of_Science.svg" alt="Logo Tokyo University of Science" width="150">
   </a>
 </div>
 
